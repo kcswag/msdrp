@@ -1,0 +1,1 @@
+./msdrp server --tcp-port=11777 --http-port=33777 --vkey="DKibZF5TXvic1g3kY"
